@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ejooghahye.govexmachina.com/sitemap.xml
